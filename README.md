@@ -1,2 +1,2 @@
-# github-game-jam-2018
+# github-game-off-2018
 Name to be replaced sometime
